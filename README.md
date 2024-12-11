@@ -1,4 +1,5 @@
-<!-- # ⭕ Tic-Tac-Toe -->
+This game is not relevant 
+<!-- # ⭕ Tic-Tac-Toe --> 
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
 
